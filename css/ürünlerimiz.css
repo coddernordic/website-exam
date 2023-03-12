@@ -1,0 +1,40 @@
+body {
+    background-color: #E9ECEF;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* My Header and Navbar Starting */
+
+.header-container {
+    background-color: chocolate;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar ul {
+    padding: 5px;
+}
+
+.navbar a {
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/* My Header and Navbar Ending */
+
+/* My Main Content Starting */
+
+.container {
+    margin-top: 20px;
+}
+
+/* My Main Content Ending */
